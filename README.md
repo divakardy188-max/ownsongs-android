@@ -57,3 +57,18 @@ Ownsongs
 ├── build.gradle.kts
 ├── settings.gradle.kts
 └── README.md
+
+<img width="362" height="717" alt="image" src="https://github.com/user-attachments/assets/4335b02d-2479-4d99-88a7-09f9064d1df9" />
+<img width="347" height="712" alt="image" src="https://github.com/user-attachments/assets/b282620f-ea27-41ca-b57f-9422855d7d57" />
+<img width="335" height="717" alt="image" src="https://github.com/user-attachments/assets/a394c0c7-be5c-465f-86af-413f0213498d" />
+<img width="342" height="715" alt="image" src="https://github.com/user-attachments/assets/aa41e7eb-0191-478b-9aff-0eebba877a93" />
+
+
+
+
+## 🚀 How to Run
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/divakardy188-max/ownsongs-android.git
